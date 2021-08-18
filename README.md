@@ -2,7 +2,7 @@ Olá, sou Izabelle Moreira 👋👋
 
 - 💻 Especialista em automação de testes na <a href="https://www.base2.com.br/" rel="nofollow">Base2 Tecnologia</a>
 - 🌱 Atualmente estou aprendendo sobre Cypress com foco em automação web e Testes de Desempenho
-- 💞️ Posso colaborar com automação de testes de APIs em .NetCore utiliznado Restsharp e Refit
+- 💞️ Posso colaborar com automação de testes de APIs em .NetCore utilizando Restsharp e Refit
 - 🔎 Me encontre aqui <a href="https://www.linkedin.com/in/izabelle-moreira/" rel="nofollow">Linkedin</a>
 
 <!---
